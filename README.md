@@ -1,1 +1,1 @@
-# spring-mongo-slave-ok-error
+# Query fails if SLAVE_OK is added
